@@ -3,3 +3,5 @@ Nice look header here.
 A nice big title of the page.
 
 Navigation
+
+Profile icon
