@@ -1,1 +1,3 @@
 Here goes styling for a header file
+
+Additional styling for header
